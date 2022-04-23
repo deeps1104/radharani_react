@@ -1,0 +1,34 @@
+.productlist1sec{
+    /* border: 1px solid; */
+    padding: 20px 20px;
+}
+
+.productlist1sec ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+
+.productlist1sec ul li{
+    display: inline-block;
+}
+
+.productlist2sec{
+   width: 100%;
+   text-align: center;
+}
+
+.productlist2sec ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+.productlist2sec ul li{
+    display: inline-block;
+}
+
+.productlist2sec ul li img{
+    width: 650px;
+    padding: 5px 5px;
+}
